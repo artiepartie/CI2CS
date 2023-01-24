@@ -1,2 +1,2 @@
-# CI2CS
+# algorithms-exercises
 Created with CodeSandbox
